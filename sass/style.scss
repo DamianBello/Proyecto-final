@@ -1,11 +1,11 @@
-@import "./base/generales";
+@use "./base/generales";
 
-@import "./components/cards";
-@import "./components/section-principal";
+@use "./components/cards";
+@use "./components/section-principal";
 
-@import "./layout/header";
-@import "./layout/main-index";
+@use "./layout/header";
+@use "./layout/main-index";
 
-@import "./utilities/maps";
-@import "./utilities/mixins";
+@use "./utilities/maps";
+@use "./utilities/mixins";
 
